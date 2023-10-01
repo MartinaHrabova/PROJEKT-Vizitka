@@ -49,7 +49,6 @@ h1 {
     display: inline-block;
 }
 
-
 .socsite a {
     text-transform: uppercase;
     color: white;
@@ -58,6 +57,7 @@ h1 {
     text-decoration: none;
     padding: 10px;
     display: block;
+    border-radius: 5px;
 }
 
 .twitter {
@@ -90,13 +90,10 @@ h1 {
 
 .twitter a:hover {
     background-color: #0b7bc1;
-    text-align: center;
-    border-radius: 5px;
 }
 
 .facebook a:hover {
     background-color: #2b406e;
-    border-radius: 5px;
 }
 
 img {
